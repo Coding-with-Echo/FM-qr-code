@@ -50,7 +50,7 @@ h3 {
   box-shadow: 0 0 40px 5px #d5dce4;
   max-height: 500px;
   max-width: 320px;
-  margin-bottom: 3rem;
+  /* margin-bottom: 3rem; */
 }
 
 .card__header {
